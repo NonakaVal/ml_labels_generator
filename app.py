@@ -338,7 +338,7 @@ with tab1:
         'barcode_width': 600,
         'barcode_height': 80,
         'barcode_bottom_padding': 20,
-        'name_font_size': 35,
+        'name_font_size': 40,
         'price_font_size': 35,
         'small_font_size': 30,
         'margin_top': 80,
